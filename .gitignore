@@ -1,0 +1,16 @@
+# Ignore build artifacts
+build/*
+!build/.gitkeep
+
+# Editor-specific files
+*.swp
+*.swo
+*.log
+*.out
+
+# VS Code settings folder
+.vscode/
+
+# OS-specific
+.DS_Store
+Thumbs.db
